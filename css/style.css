@@ -1,0 +1,38 @@
+/********** TAG ELEMENT **********/
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+/********** CLASS ELEMENT **********/
+
+.qr-text {
+    margin: 5px;
+}
+
+.head {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: hsl(218, 44%, 22%);
+}
+
+.descn {
+    font-size: 0.9375rem;
+    color:hsl(220, 15%, 55%);
+}
+
+.qr-parent {
+    background-color: white;
+    border-radius: 2.5%;
+    width: 15%;
+    margin: 100px auto;
+    padding: 10px;
+}
+
+.img-qr {
+    border-radius: 4%;
+    width: 95%;
+    margin: 10px auto;
+}
